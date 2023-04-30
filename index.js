@@ -4,7 +4,6 @@ var celeb_bank = [
 	  Bill Clinton, Prince Charles
 	  Mr Bean
 	  Richard Gere
-	  Hrithik Roshan
 	  Virat Kohli
 	  Benjamin Bratt
 	  Amitabh (younger days)
@@ -14,9 +13,8 @@ var celeb_bank = [
 	"https://hips.hearstapps.com/hmg-prod/images/prince-charles-prince-of-wales-poses-for-an-official-news-photo-1573163200.jpg",
 	"https://images.theconversation.com/files/304864/original/file-20191203-67028-qfiw3k.jpeg?ixlib=rb-1.1.0&rect=638%2C2%2C795%2C745&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
 	"https://m.media-amazon.com/images/M/MV5BMTI2NDQ2OTY4M15BMl5BanBnXkFtZTYwNTYyNjc4._V1_FMjpg_UX1000_.jpg",
-	
 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShm-Yo8ZoIK9bJPSjEW0Zo3ig9Mlk-ZOIW7g&usqp=CAU",
-	"https://static.wikia.nocookie.net/disney/images/a/a0/Benjamin_Bratt.jpg/revision/latest?cb=20180405201137",
+	"https://static.tvtropes.org/pmwiki/pub/images/benjamin_bratt.jpg",
 	"https://i.ndtvimg.com/i/2015-05/amitabh-bachchan_640x480_51431434404.jpg",
 	"https://content.api.news/v3/images/bin/a99dc8298b33c91e4e4ce69873970d96",
     ],
