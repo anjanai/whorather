@@ -1,3 +1,7 @@
+main {
+    //background-image:url('https://bestanimations.com/media/many-hearts/1391146284gold-falling-hearts-animated-gif.gif');
+    //background-repeat:repeat;
+}
 main{
     display: flex;
     flex-flow: column;
@@ -111,21 +115,3 @@ h2:hover{
     width: 300px;
     border-radius: 3em;
 }
-
-.playAgainButton{
-    border-radius: 2em;
-    padding: 7px;
-    background-color: rgb(115, 255, 0);
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Fredoka One', cursive;
-    font-size: 250%;
-}
-.playAgainButton:hover{
-    background-color: white;
-}
-

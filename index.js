@@ -88,15 +88,14 @@ function create_image (num) {
     }
     box.appendChild(img);
     $(box).click(function(){
-	if (j == celebs.length) xbox.style.display="none";
+	if (j == celebs.length) {
+	    xbox.style.display="none";
+	    var main = document.getElementsByTagName('main')[0];
+	    main.style.backgroundImage="url(https://bestanimations.com/media/many-hearts/1391146284gold-falling-hearts-animated-gif.gif)"; 
+	}
 	else xbox.children[0].src = celebs[j++];
     })
 }
 
 create_image(1);
 create_image(2);
-
-
-
-
-
