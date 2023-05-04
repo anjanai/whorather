@@ -96,7 +96,7 @@ var celeb_bank = [
 	"https://www.pbs.org/wnet/pioneers-of-television/files/2014/04/9088097831_d31af2d6e5_o.jpg",
 	"https://hips.hearstapps.com/hmg-prod/images/gettyimages-660314202.jpg",
 	"https://www.al.com/resizer/B2jAa-FYbveRmn4Hr1CZ6nGx1L8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YS2LGW42AVAMLEUQLQG4S5L7EA.jpg",
-	"https://static.wikia.nocookie.net/starwars/images/2/29/Harrisonford.jpg/revision/latest?cb=20190414125007",
+	"https://api.time.com/wp-content/uploads/2017/07/harrison-ford.jpg",
 	"https://media.cnn.com/api/v1/images/stellar/prod/210327012507-sachin-tendulkar-file.jpg?q=w_1600,h_1065,x_0,y_0,c_fill",
 	"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Paul_McCartney_2021_%28cropped%29.jpg/800px-Paul_McCartney_2021_%28cropped%29.jpg",
 	"https://cdn.siasat.com/wp-content/uploads/2021/12/Rajesh-Khanna.jpg",
