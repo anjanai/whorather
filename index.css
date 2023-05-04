@@ -1,7 +1,3 @@
-main {
-    //background-image:url('https://bestanimations.com/media/many-hearts/1391146284gold-falling-hearts-animated-gif.gif');
-    //background-repeat:repeat;
-}
 main{
     display: flex;
     flex-flow: column;
